@@ -1,8 +1,8 @@
 {
-  "name": "webpack-4-boilerplate",
+  "name": "starry-sky",
   "version": "1.0.0",
-  "description": "Boilerplate for modern javascript development using webpack 4",
-  "author": "Fin Mavis",
+  "description": "Hmmmm... Kowalski, Analysis... Yes, he is using canvas",
+  "author": "Laks Castro",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.7.7",
