@@ -32,11 +32,13 @@
   },
   "scripts": {
     "start": "webpack-dev-server --open --config=config/webpack.dev.js",
-    "build": "webpack --config=config/webpack.prod.js"
+    "build": "webpack --config=config/webpack.prod.js",
+    "gh": "node publish.js"
   },
   "dependencies": {
     "@babel/polyfill": "^7.7.0",
-    "core-js": "3"
+    "core-js": "3",
+    "gh-pages": "^2.2.0"
   },
   "browserslist": [
     "> 1%",
