@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./src/assets/images/starry.png" width="150" alt="Project Logo">
-  <h1 align="center">Um céu estrelado</h1>
+  <p align="center">⭐⭐⭐⭐⭐</p> 
+  <h1 align="center">Um Céu Estrelado</h1>
   <p align="center">Aprendendo um pouco sobre canvas, desenhando um belo de um céu noturno :D</p>
 </p>
 
