@@ -1,5 +1,6 @@
 <p align="center">
   <img src="./src/assets/images/starry.png" width="150" alt="Project Logo">
+  <p align="center">⭐⭐⭐⭐⭐</p> 
   <h1 align="center">A Starry Sky</h1>
   <p align="center">Learning to use canvas drawing a beautiful of a night sky... :D</p>
 </p>
