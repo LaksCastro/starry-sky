@@ -12,3 +12,6 @@
 
 ## Mas o que que é isso aqui?
 Esse repo é uma [página bem simples](https://lakscastro.github.io/starry-sky) com um canvas em Fullscreen que está dando vida à infinitas de estrelas, gotas de água, ou qualquer coisa que você tenha entendido, no final isso são só linhas mesmo... desenhadas, apagadas e resenhadas novamente.
+
+## License
+This project is licensed under the MIT license - see the LICENSE archive for more details.
