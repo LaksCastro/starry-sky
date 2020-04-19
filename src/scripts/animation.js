@@ -141,22 +141,6 @@ function RainCanvas(canvasNode) {
 
       this.canvas.stroke(line);
     },
-    drawRandomLine: function (xI, yI, xF, yF) {
-      const useIrreg = randomNumber(0, 3) === 3;
-      const irregularity = useIrreg ? randomNumber(10, 20) : 0;
-
-      const zIndex = effect * 3;
-
-      const line = new Path2D();
-
-      line.moveTo(xI + zIndex, yI + zIndex + irregularity);
-      line.lineTo(xF - zIndex, yF - zIndex + irregularity);
-
-      this.canvas.beginPath();
-
-
-      this.canvas.stroke(line);
-    }
   }
 
   var onResize = function () {
