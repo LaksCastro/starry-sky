@@ -11,6 +11,10 @@
   </p>
 </p>
 
+<p align="center">
+  <img src="/src/assets/images/starry-gif.gif" alt="Demo Image" height="200" />
+</p>
+
 <p>
   <img src="./src/assets/images/en.png" alt="Portuguese" height="16">
   <a href="https://github.com/LaksCastro/starry-sky/blob/master/README.md">Read in English</a>
