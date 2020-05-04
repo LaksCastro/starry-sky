@@ -5,8 +5,8 @@
   <p align="center">Learning to use canvas drawing a beautiful of a night sky... :D</p>
   <p align="center">
     <img src="https://img.shields.io/badge/engine-canvas-informational" alt="Animation Engine" />
-    <img src="https://img.shields.io/badge/type-experimental-yellow" alt="Animation Engine" />
-    <img src="https://img.shields.io/badge/engine-canvas-informational" alt="Animation Engine" />
+    <img src="https://img.shields.io/badge/type-experimental-orange" alt="Animation Engine" />
+    <img src="https://img.shields.io/badge/language-javascript-yellow" alt="Animation Engine" />
     <img src="https://img.shields.io/badge/engine-canvas-informational" alt="Animation Engine" />
   </p>
 </p>
