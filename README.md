@@ -3,6 +3,9 @@
   <p align="center">⭐⭐⭐⭐⭐</p> 
   <h1 align="center">A Starry Sky</h1>
   <p align="center">Learning to use canvas drawing a beautiful of a night sky... :D</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/engine-canvas-informational" alt="Animation Engine" />
+  </p>
 </p>
 
 <p>
