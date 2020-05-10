@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/engine-canvas-informational" alt="Animation Engine" />
     <img src="https://img.shields.io/badge/type-experimental-orange" alt="Repo Type" />
     <img src="https://img.shields.io/badge/language-javascript-yellow" alt="Repo Main Language" />
-    <img src="https://img.shields.io/badge/platform-web-success" alt="Animation Engine" />
+    <img src="https://img.shields.io/badge/platform-web-success" alt="Platform Engine" />
   </p>
   <p align="center">
     <a href="https://twitter.com/lakscastro" target="_blank">
