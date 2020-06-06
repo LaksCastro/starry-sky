@@ -27,5 +27,18 @@
 ## But what is this?
 It's a very [simple web page](https://lakscastro.github.io/starry-sky), with only a Fullscreen canvas giving life to millions of stars, drops of water, or anything you have understood, in the end it's just lines... drawn, erased and redrawn...
 
-## License
-This project is licensed under the MIT license - see the LICENSE archive for more details.
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="center">
+  Open Source
+</h2>
+<p align="center">
+  <sub>Copyright © 2020-present, Laks Castro.</sub>
+</p>
+<p align="center">Starry Sky <a href="https://github.com/LaksCastro/starry-sky/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+<p align="center">
+  <img src="./src/assets/images/starry.png" width="35" />
+</p>
